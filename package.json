@@ -5,7 +5,13 @@
   "repository": {},
   "author": "Dan Brooks <dan.brooks@onthebeach.co.uk>",
   "license": "MIT",
+  "scripts": {
+    "test": "ava test/**"
+  },
   "devDependencies": {
     "ava": "^0.18.2"
+  },
+  "dependencies": {
+    "ramda": "^0.23.0"
   }
 }
