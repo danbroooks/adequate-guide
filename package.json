@@ -1,0 +1,8 @@
+{
+  "name": "adequate-guide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {},
+  "author": "Dan Brooks <dan.brooks@onthebeach.co.uk>",
+  "license": "MIT"
+}
