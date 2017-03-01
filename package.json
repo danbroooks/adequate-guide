@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": {},
   "author": "Dan Brooks <dan.brooks@onthebeach.co.uk>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.18.2"
+  }
 }
